@@ -1,0 +1,5 @@
+.card {
+  flex: 1;
+  width: 20rem;
+  box-shadow: 10px 5px 10px black;
+}
